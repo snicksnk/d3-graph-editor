@@ -1,0 +1,13 @@
+path {
+  stroke: black;
+}
+
+.node circle {
+  stroke-width: 2px;
+  cursor: pointer;
+}
+
+.background {
+  fill: #f8f8f8;
+  cursor: crosshair;
+}
